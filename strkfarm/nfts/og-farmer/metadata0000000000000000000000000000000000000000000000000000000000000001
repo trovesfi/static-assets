@@ -1,7 +1,7 @@
 {
     "name": "STRKFarm OG Farmer",
     "description": "STRKFarm Limited Edition OG Farmer NFT",
-    "image": "http://assets.strkfarm.xyz/strkfarm/nfts/og-farmer/1.jpg",
+    "image": "http://assets.strkfarm.xyz/strkfarm/nfts/og-farmer/1.png",
     "attributes": [
         {
         "trait_type": "max_supply", 
